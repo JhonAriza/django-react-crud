@@ -1,5 +1,5 @@
 
- ##Django-React CRUD
+ ## Django-React CRUD
  
 🛠️ Introducción
 Este es un API basado en Django y React para la gestión de users  Permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre estas entidades.
